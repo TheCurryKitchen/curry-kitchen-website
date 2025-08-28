@@ -469,3 +469,8 @@ footer {
         align-items: center;
     }
 }
+.halal{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: -600px;
+}
