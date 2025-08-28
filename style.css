@@ -50,6 +50,7 @@ header {
     font-size: 28px;
     font-weight: 700;
     letter-spacing: 1px;
+    margin-left: 100px;
 }
 
 .logo span {
@@ -472,5 +473,5 @@ footer {
 .halal{
     font-weight: bold;
     font-size: 20px;
-    margin-left: -600px;
+    margin-left: 160px;
 }
